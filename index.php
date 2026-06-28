@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-
 <html class="dark" lang="en">
 
 <head>
@@ -152,16 +151,16 @@
     <nav class="w-full sticky top-0 z-50 backdrop-blur-md bg-background/80">
         <div
             class="flex justify-between items-center max-w-container-max mx-auto px-margin-mobile md:px-margin-desktop py-unit h-20">
-            <div class="font-headline-md text-headline-md font-black text-on-surface tracking-tighter">CREATIVE.OS</div>
+            <div class="font-headline-md text-headline-md font-black text-on-surface tracking-tighter">Porto</div>
             <div class="hidden md:flex gap-8 items-center">
                 <a class="text-primary font-bold border-b-2 border-primary pb-1 font-label-bold text-label-bold"
-                    href="#">Work</a>
+                    href="Work.html">Work</a>
                 <a class="text-on-surface-variant hover:text-secondary transition-colors duration-300 font-label-bold text-label-bold"
                     href="#">Skills</a>
                 <a class="text-on-surface-variant hover:text-secondary transition-colors duration-300 font-label-bold text-label-bold"
-                    href="#">About</a>
+                    href="about.html">About</a>
                 <a class="text-on-surface-variant hover:text-secondary transition-colors duration-300 font-label-bold text-label-bold"
-                    href="#">Contact</a>
+                    href="contact.html">Contact</a>
             </div>
             <button
                 class="bg-primary-container text-on-primary-container px-6 py-3 rounded-full font-label-bold text-label-bold scale-95 active:scale-90 transition-transform">
@@ -174,7 +173,7 @@
         <section class="mb-16">
             <div class="max-w-4xl">
                 <h1 class="font-display-lg text-display-lg mb-6 leading-[1.05]">
-                    Elevate Your Every Moment Count with <span class="text-primary">Creative.OS</span>
+                    Hi Am Adii. <br> My Dream Is <span class="text-primary">Raja Iblis</span>
                 </h1>
                 <p class="font-body-lg text-body-lg text-on-surface-variant max-w-2xl">
                     A meticulous fusion of strategy, design, and motion. Crafting digital ecosystems that don't just
