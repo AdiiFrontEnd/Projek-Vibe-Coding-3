@@ -154,13 +154,13 @@
             <div class="font-headline-md text-headline-md font-black text-on-surface tracking-tighter">Porto</div>
             <div class="hidden md:flex gap-8 items-center">
                 <a class="text-primary font-bold border-b-2 border-primary pb-1 font-label-bold text-label-bold"
-                    href="Work.html">Work</a>
+                    href="Work.php">Work</a>
                 <a class="text-on-surface-variant hover:text-secondary transition-colors duration-300 font-label-bold text-label-bold"
                     href="#">Skills</a>
                 <a class="text-on-surface-variant hover:text-secondary transition-colors duration-300 font-label-bold text-label-bold"
-                    href="about.html">About</a>
+                    href="about.php">About</a>
                 <a class="text-on-surface-variant hover:text-secondary transition-colors duration-300 font-label-bold text-label-bold"
-                    href="contact.html">Contact</a>
+                    href="contact.php">Contact</a>
             </div>
             <button
                 class="bg-primary-container text-on-primary-container px-6 py-3 rounded-full font-label-bold text-label-bold scale-95 active:scale-90 transition-transform">

@@ -1,5 +1,4 @@
 <!doctype html>
-
 <html class="dark" lang="en">
   <head>
     <meta charset="utf-8" />
@@ -178,22 +177,22 @@
         <div class="hidden md:flex items-center space-x-8">
           <a
             class="text-on-surface-variant hover:text-primary transition-colors font-label-bold text-label-bold"
-            href="Work.html"
+            href="Work.php"
             >Work</a
           >
           <a
             class="text-on-surface-variant hover:text-primary transition-colors font-label-bold text-label-bold"
-            href="index.html"
+            href="index.php"
             >Skills</a
           >
           <a
             class="text-on-surface-variant hover:text-primary transition-colors font-label-bold text-label-bold"
-            href="about.html"
+            href="about.php"
             >About</a
           >
           <a
             class="text-secondary font-bold border-b-2 border-secondary pb-1 font-label-bold text-label-bold"
-            href="contact.html"
+            href="contact.php"
             >Contact</a
           >
         </div>
